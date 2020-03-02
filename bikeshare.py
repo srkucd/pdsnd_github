@@ -1,5 +1,3 @@
-#Well this is another modification under refactoring branch.
-
 import time
 import pandas as pd
 import datetime

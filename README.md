@@ -22,9 +22,8 @@ Include the files used
 It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
 <<<<<<< HEAD
 -Actually no, the tutor in Udacity said my method is "the first time he has ever saw".
+
 ||||||| merged common ancestors
-
 =======
-
-Well this is some modification under refactoring branch.
->>>>>>> refactoring
+Well it is the first additional change.
+>>>>>>> documentation
