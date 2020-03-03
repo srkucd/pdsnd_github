@@ -1,3 +1,7 @@
+#Well this is another modification under refactoring branch.
+
+#Looks like I failed last time, I am going to pass this submission.
+>>>>>>> refactoring
 import time
 import pandas as pd
 import datetime
@@ -260,7 +264,7 @@ def main():
         user_stats(df)
         raw_data(df)
 
-        restart = input('\nWould you like to restart? Enter yes or no.\n')
+        restart = input('\nWould you like to restart? yes/no.\n')
         if restart.lower() != 'yes':
             break
 
