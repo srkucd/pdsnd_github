@@ -23,6 +23,8 @@ It's important to give proper credit. Add links to any repo that inspired you or
 <<<<<<< HEAD
 -Actually no, the tutor in Udacity said my method is "the first time he has ever saw".
 
+Some update(for resubmission)
+
 ||||||| merged common ancestors
 =======
 Well it is the first additional change.
