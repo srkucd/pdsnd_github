@@ -24,6 +24,7 @@ It's important to give proper credit. Add links to any repo that inspired you or
 -Actually no, the tutor in Udacity said my method is "the first time he has ever saw".
 
 Some update(for resubmission)
+-Sorry, I forget to add a title and description in commit.
 
 ||||||| merged common ancestors
 =======
