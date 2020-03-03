@@ -17,6 +17,7 @@ Include the files used
 -chicago.csv
 -new_york_city.csv
 -washington.csv
+-and I add something here.
 
 ### Credits
 It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
@@ -26,7 +27,8 @@ It's important to give proper credit. Add links to any repo that inspired you or
 Some update(for resubmission)
 -Sorry, I forget to add a title and description in commit.
 
-||||||| merged common ancestors
-=======
+
 Well it is the first additional change.
+
+-Last time I didn't pass, I am going to pass at this time.
 >>>>>>> documentation
